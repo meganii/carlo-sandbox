@@ -1,0 +1,12 @@
+{
+  "name": "carlo-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/meganii/carlo-sandbox.git",
+  "author": "meganii <yuhei24@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "carlo": "^0.9.43",
+    "puppeteer-core": "^1.11.0"
+  }
+}
